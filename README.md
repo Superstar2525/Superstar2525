@@ -11,7 +11,7 @@ First, I excel at conflict resolution, a skill I refined as a Physical Education
 Second, my communication skills have been a cornerstone of my roles as both a teacher and a Car Salesman. Whether explaining safety protocols to students or discussing vehicle features with customers, I’ve learned to communicate complex information clearly and effectively. This will be beneficial in cybersecurity when conveying technical information to non-technical staff. https://coursera.org/share/e7859bf30cf397d42310aa8f46c7c48a
 
 
-TryHackMe Journal "Coming Soon"
+TryHackMe Journal "https://docs.google.com/document/d/1x4vvN5SbUFaCLPf6j-yy7I9UnCWj8Q-SZmevWDv0C0E/edit?usp=sharing"
 Incident Handler’s Journal "Coming Soon"
 Vulnerable System Analysis "Coming Soon"
 SQL Query “Coming Soon”
